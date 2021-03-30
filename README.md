@@ -86,9 +86,7 @@ AZ-220T00 | 4 days
 
 ## ETC
 Microsoft Certified: Data Analyst Associate Exams DA-100
-
 http://aka.ms/AzureCerts_DataAnalyst
-
 Analyzing Data with Microsoft Power BI
 
 DA-100T00 | 5 days
