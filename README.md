@@ -30,7 +30,7 @@ AZ-104T00 | 4 days
 Microsoft Certified: Azure Developer Associate Exam AZ-204
 http://aka.ms/AzureCerts_Developer
 Developing solutions for Microsoft Azure
-AZ-204T00 | 5 days
+AZ-204T00 | 5 days  
 
 Microsoft Certified: Azure Security Engineer Associate Exam AZ-500
 http://aka.ms/AzureCerts_SecurityEngineer
