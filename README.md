@@ -2,14 +2,14 @@
 Based on Microsoft Azure training and certifications
 (2021.03)
 
-# Microsoft Azure training and certifications 
-http://aka.ms/AzureTrainCertDeck
+# Microsoft Azure training and certifications  
+http://aka.ms/AzureTrainCertDeck  
 
 ## Fundamentals
-Microsoft Certified: Azure Fundamentals Exam AZ-900
-http://aka.ms/AzureCerts_Fundamentals
-Microsoft Azure Data Fundamentals
-DP-900T00 | 1 day
+Microsoft Certified: Azure Fundamentals Exam AZ-900  
+http://aka.ms/AzureCerts_Fundamentals  
+Microsoft Azure Data Fundamentals  
+DP-900T00 | 1 day  
 
 Microsoft Certified: Azure Data Fundamentals Exam DP-900
 http://aka.ms/AzureCerts_DataFundamentals
